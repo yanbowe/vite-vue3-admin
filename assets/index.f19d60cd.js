@@ -1,0 +1,1 @@
+import{r,s as t}from"./index.7c366795.js";function a(a){return r({url:t.req,method:"get",params:a},{isMock:!0,isGetDataDirectly:!1})}function e(a){return r({url:t.login,method:"get",params:a})}export{a,e as g};

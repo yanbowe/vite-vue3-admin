@@ -1,0 +1,1 @@
+System.register(["./index-legacy.d5824d17.js","./vendor-legacy.37c7624c.js"],(function(e){"use strict";var n,t,r;return{setters:[function(e){n=e._},function(e){t=e.b,r=e.c}],execute:function(){e("default",n({name:"MonitorOnline"},[["render",function(e,n,c,i,u,o){return t(),r("div",null,"在线用户")}]]))}}}));

@@ -1,0 +1,1 @@
+System.register(["./index-legacy.d5824d17.js"],(function(t){"use strict";var e,r;return{setters:[function(t){e=t.r,r=t.s}],execute:function(){t({a:function(t){return e({url:r.req,method:"get",params:t},{isMock:!0,isGetDataDirectly:!1})},g:function(t){return e({url:r.login,method:"get",params:t})}})}}}));

@@ -1,0 +1,1 @@
+import{r as t,m as s}from"./index.7c366795.js";function e(){return t({url:s.list,method:"get"})}function u(e){return t({url:s.add,method:"post",data:e},{successMsg:"创建成功"})}function r(e){return t({url:s.update,method:"post",data:e},{successMsg:"更新成功"})}function a(e){return t({url:s.delete,method:"post",data:e},{successMsg:"删除成功"})}export{u as c,a as d,e as g,r as u};

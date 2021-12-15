@@ -1,0 +1,1 @@
+import{_ as r}from"./index.7c366795.js";import{b as n,c as e}from"./vendor.5e124c15.js";var o=r({name:"MonitorOnline"},[["render",function(r,o,a,i,t,s){return n(),e("div",null,"在线用户")}]]);export{o as default};
